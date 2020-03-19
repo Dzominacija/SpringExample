@@ -1,0 +1,5 @@
+dao\impl\UserDaoImpl.class
+domain\User.class
+config\MyBeanConfig.class
+dao\UserDao.class
+main\Main.class
